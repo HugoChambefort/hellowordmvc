@@ -2,5 +2,5 @@ package hellowordmvc.Contract;
 
 public interface IView {
 
-	public void displayMessage(String messsage);
+	public void displayMessage(String message);
 	}
