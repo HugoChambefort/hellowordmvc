@@ -7,4 +7,11 @@
   </parent>
   <artifactId>hellowordmvc.controller</artifactId>
   <name>controller</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>fr.exia</groupId>
+  		<artifactId>hellowordmvc.Contract</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
